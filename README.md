@@ -47,7 +47,7 @@ npm run dev
 
 3. Then open:
 ```bash
-http://localhost:3000/campaigns
+http://localhost:3000
 ```
 
 ## Future Enhancements
