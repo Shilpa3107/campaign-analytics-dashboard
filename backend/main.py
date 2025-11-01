@@ -24,6 +24,7 @@ def get_campaigns():
     db.close()
     return [
         {
+            "id": c.id,
             "name": c.name,
             "status": c.status,
             "clicks": c.clicks,
